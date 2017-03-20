@@ -7,11 +7,11 @@
 
 And Results looks like this:
 <br>
-<img height=800 src="https://github.com/rmit-s3471293-Zhongyang-Wang/BigData/blob/master/b1.jpeg" />
+<img height=500 src="https://github.com/rmit-s3471293-Zhongyang-Wang/BigData/blob/master/b1.jpeg" />
 <br>
 <br>
 
 After data visualization, the analyse report looks like this:
 <br>
-<img height=800 src="https://github.com/rmit-s3471293-Zhongyang-Wang/BigData/blob/master/b2.jpeg" />
+<img height=450 src="https://github.com/rmit-s3471293-Zhongyang-Wang/BigData/blob/master/b2.jpeg" />
 <br>
